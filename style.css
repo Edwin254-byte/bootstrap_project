@@ -9,6 +9,12 @@
   border-radius: 10px;
 }
 .footer-logo {
-  width: 50%;
-  height: 50%;
+  width: 210px;
+  height: 200px;
+  border-radius: 20px;
+}
+.btn__center {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
 }
